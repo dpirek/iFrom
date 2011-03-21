@@ -45,7 +45,7 @@
         }
   
         // Disable button.
-        submitButton.addClass(defaults.disabledButtonClass).attr('disabled', 'disabled'); 
+        submitButton.addClass(defaults.disabledButtonClass).attr('disabled', 'disabled');
   
         // Create iframe.
         var iframe = $('<iframe style="display:none;"></iframe>');
